@@ -2,3 +2,7 @@ numpy
 pandas
 jupyter
 seaborn
+scipy
+numpy 
+matplotlib
+plotly
